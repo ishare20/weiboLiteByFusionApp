@@ -6,11 +6,14 @@
 ## 使用教程
 长按底部按钮可以刷新当前网页。APP无恶意后台代码，所有操作都是微博网页来完成，微博是Https站点。我会共享微博定制的工程，喜欢折腾的可用Fusion App基于我的版本定制修改，自行打包APP。Fusion App无论是不是PWA应用都可以打包成APP。
 
-## 下载地址
-大小：1.21MB    
-[微博lite_1.0_by_lemonTree][3]
+## 更新日志
+v1.0.1 禁用页面滑动，防止图片浏览时滑到其他页面
 
-大小：38KB      
+## 下载地址
+大小：1.21MB
+[微博lite_1.0.1_by_lemonTree][3]
+
+大小：38KB
 [Fusion APP 微博定制工程][4]
 
 ## 截图
@@ -21,7 +24,7 @@
 
   [1]: https://m.weibo.cn/
   [2]: https://www.coolapk.com/apk/cn.coldsong.fusionapp
-  [3]: https://tc5.us/file/4188770-411046527
+  [3]: https://tc5.us/file/4188770-411069110
   [4]: https://tc5.us/file/4188770-411046656
   [5]: https://ishare20.net/usr/uploads/2019/12/1663371381.jpg
   [6]: https://ishare20.net/usr/uploads/2019/12/3248877523.jpg
